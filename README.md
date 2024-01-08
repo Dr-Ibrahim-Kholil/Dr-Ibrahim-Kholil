@@ -2,13 +2,21 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">
   🤠 About me : 
+  
   💻 I'm a Student & A part time Programmer 
+  
   🇧🇩 Resident of Bangladesh 
+  
   😇 Muslim 
+  
   😐 Studying at COXBAZAR 
+  
   😪 Love Sleeping 
+  
   💔 Born Single 
+  
   🐍 Trying to learn Python & SQLI 
+  
   🤐 Aim : Become a Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
